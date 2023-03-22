@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋
+
+- 🔭 I’m currently working at a stealth startup in the social networking space
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I have dual citizenship with the U.S. and Australia :)
+- 🎞 Check out my portfolio website at [isabellahochschild.com](isabellahochschild.com)
 
 <!--
 **isabellahoch/isabellahoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
