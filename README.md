@@ -4,7 +4,7 @@ I'm a Computer Science & Economics student at Dartmouth College passionate about
 
 To learn more about my background and projects I've worked on, please visit my portfolio website at [isabellahochschild.com](isabellahochschild.com) 🤗
 
-## 📘 Languages I'm proficient in:
+## 📘 Languages
 
 ![Java](https://img.shields.io/badge/java%23-%23239120.svg?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,7 +16,7 @@ To learn more about my background and projects I've worked on, please visit my p
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 🖥️ Tech Stacks I'm proficient in:
+## 🖥️ Tech Stacks
 
 ![React](https://img.shields.io/badge/react-%23C21325.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,7 +52,7 @@ To learn more about my background and projects I've worked on, please visit my p
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 
-## ⚙️ Other Tools I'm proficient in
+## ⚙️ Other Tools
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
