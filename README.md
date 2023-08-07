@@ -1,8 +1,8 @@
 ### Hi, I'm Isabella Hochschild - @isabellahoch (she/her/hers) 👋
 
 I'm a Computer Science & Economics student at Dartmouth College passionate about using technology to solve real-world problems :)
-- 🎞 Check out my portfolio website at [isabellahochschild.com](isabellahochschild.com)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] [Connect with me on LinkedIn](https://www.linkedin.com/in/isabellahochschild/)
+- Check out my portfolio website at [isabellahochschild.com](isabellahochschild.com)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/isabellahochschild/)
 
 ## 📘 Languages I'm proficient in:
 
@@ -56,7 +56,7 @@ I'm a Computer Science & Economics student at Dartmouth College passionate about
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) (1324-day streak and counting!)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 
 ## 📚 Currently Learning
 
