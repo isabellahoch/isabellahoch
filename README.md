@@ -1,7 +1,5 @@
 ### Hi, I'm Isabella Hochschild - @isabellahoch (she/her/hers) 👋
 
-I'm a Computer Science & Economics student at Dartmouth College passionate about using technology to solve real-world problems.
-
 To learn more about my background and projects I've worked on, please visit my portfolio website at [isabellahochschild.com](https://isabellahochschild.com) 🤗
 
 ## 📘 Languages
